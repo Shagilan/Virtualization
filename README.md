@@ -308,7 +308,7 @@ The cal command is used to display the current month's calendar with the current
 
 Syntax: cal
 
-<img width="288" height="195" alt="cs26" src="https://github.com/user-attachments/assets/7569f3f3-0def-40bc-8972-62f4441bcf02" />
+<img width="515" height="294" alt="image" src="https://github.com/user-attachments/assets/b4f0c030-9987-45f5-8e16-aedee1238ddd" />
 
 
 ## 27) clear Command
@@ -316,9 +316,10 @@ Linux clear command is used to clear the terminal screen.
 
 Syntax: clear
 
-<img width="927" height="888" alt="cs27a" src="https://github.com/user-attachments/assets/38cabc2d-ac25-471e-b8ae-7dcb8a7538f8" />
+<img width="1920" height="1165" alt="image" src="https://github.com/user-attachments/assets/5055c031-901e-495e-aa00-a7526c5431d9" />
 
-<img width="513" height="239" alt="cs27b" src="https://github.com/user-attachments/assets/8b19b010-7d19-4a6e-9a68-a3f83f3daf80" />
+
+<img width="1920" height="1165" alt="image" src="https://github.com/user-attachments/assets/8c505f70-087d-4953-a335-a07cb59e39c1" />
 
 
 
